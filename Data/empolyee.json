@@ -1,0 +1,29 @@
+{
+  "add_emp": {
+    "user_name": "冠希",
+    "mobile": "13800000002",
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  "query_emp": {
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  "modify_emp": {
+    "user_name": "冠希2",
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  "delete_emp": {
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  }
+}

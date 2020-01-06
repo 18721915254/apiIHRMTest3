@@ -1,0 +1,2 @@
+2020-01-06 10:45:22,161 INFO [root] [__init__.py(<module>:10)] - 阔以正常工作
+2020-01-06 10:45:22,703 INFO [root] [login.py(test01_login_success:32)] - 登录成功返回数据 ： {'message': '操作成功！', 'code': 10000, 'data': '4ce65325-54cc-4aa3-844a-7a45772d3198', 'success': True}
